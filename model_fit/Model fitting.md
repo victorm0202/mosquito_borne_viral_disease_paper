@@ -54,11 +54,11 @@ We did an extensive set of experiments with different parameterizations, however
 <table>
  <thead>
   <tr>
-   <th style="text-align:left;"> Parameter </th>   
    <td style="text-align:left;"> $PC_{DroneImage}$ </td>
    <td style="text-align:left;"> $nclust$ </td>
    <td style="text-align:left;"> $k_{nn}$ </td>
    <td style="text-align:left;"> $PC_{FAMD}$ </td>
+   <td style="text-align:left;"> $PC_{PLS}$ </td>
   </tr>
  </thead>
 <tbody>
