@@ -41,3 +41,6 @@ Main parameters are:
 </tbody>
 </table>
 
+# Evaluation
+
+PLS is a regression model on latent (or canonical) variables, therefore, we have some performance metrics of the methodology, such as sum of squared errors or coefficient determination $R^2$, however, in our case we do not want to get a model with the best predictive performance *per se*, but to obtain a set of components that can represent all covariates we used (from different sources and types) in an useful way and are co-related to our response variable of interest, in such a way that can serve as a risk index. So, we discarded such metrics, because in order to have a good $R^2$, it is very easy to have an overfitted model. Then, our main evaluation critera was the explained inertia obtained with the FAMD procedure according to the $PC_{FAMD}$ variable, and the residuals on log counts of the response variables. 
