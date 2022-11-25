@@ -55,28 +55,18 @@ We did an extensive set of experiments with different parameterizations, however
  <thead>
   <tr>
    <th style="text-align:left;"> Parameter </th>   
-   <th style="text-align:right;"> Value </th>
+   <td style="text-align:left;"> $PC_{DroneImage}$ </td>
+   <td style="text-align:left;"> $nclust$ </td>
+   <td style="text-align:left;"> $k_{nn}$ </td>
+   <td style="text-align:left;"> $PC_{FAMD}$ </td>
   </tr>
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> $PC_{DroneImage}$ </td>
    <td style="text-align:right;"> $1$ </td>
-  </tr>  
-  <tr>
-   <td style="text-align:left;"> $nclust$ </td>
    <td style="text-align:right;"> $2$ </td>
-  </tr>   
-  <tr>
-   <td style="text-align:left;"> $k_{nn}$ </td>
    <td style="text-align:right;"> $3$ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> $PC_{FAMD}$ </td>
    <td style="text-align:right;"> $2$ </td>
-  </tr>
- <tr>
-   <td style="text-align:left;"> $PC_{PLS}$ </td>
    <td style="text-align:right;"> $2$ </td>
   </tr>
 </tbody>
