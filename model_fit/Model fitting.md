@@ -35,7 +35,7 @@ Main parameters are:
   </tr>
  <tr>
    <td style="text-align:left;"> $PC_{PLS}$ </td>
-   <td style="text-align:right;"> The maximum number of principal components to obtain in PLS to generate our proposed index. Observe that, altough we use just the first score of PLS ($\widetilde{\mathbf{X}}\mathbf{a}_1$), results may vary for different values of $PC_{PLS}$. Also, this parameter must satisfy $PC_{PLS}\leq $PC_{FAMD}$ </td>
+   <td style="text-align:right;"> The maximum number of principal components to obtain in PLS to generate our proposed index. Observe that, altough we use just the first score of PLS ($\widetilde{\mathbf{X}}\mathbf{a}_1$), results may vary for different values of $PC_{PLS}$. Also, this parameter must satisfy $PC_{PLS}\leq PC_{FAMD}$ </td>
    <td style="text-align:right;"> $\lbrace 2, 3,4,5, 6 \rbrace$ </td>
   </tr>
 </tbody>
