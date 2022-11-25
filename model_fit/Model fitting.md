@@ -75,6 +75,6 @@ We did an extensive set of experiments with different parameterizations, however
 Explained inertia: 0.72
 
 ### Hierarchical clustering with connectivity constraints. 
-<img src="model1/clust_spatial_constraints_100px.png" height="80%" width="80%" align="center"/>
+<img src="model1/clust_spatial_constraints_100px.png" height="50%" width="50%" align="center"/>
 
 
