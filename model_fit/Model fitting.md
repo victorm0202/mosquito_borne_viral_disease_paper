@@ -78,8 +78,42 @@ Explained inertia: 0.72
 <img src="model1/clust_spatial_constraints_100px.png" height="55%" width="55%" align="center"/>
 
 ### House-level risk index 
-<img src="model1/pls_index_allIndex.png" height="55%" width="55%" align="center"/>
+<img src="model1/pls_index_allIndex.png" height="65%" width="65%" align="center"/>
 
 ### House-level risk index (geographic distribution)
 <img src="model1/geo_index.png" height="55%" width="55%" align="center"/>
+
+## Model 2
+
+<table>
+ <thead>
+  <tr>
+   <td style="text-align:left;"> $PC_{DroneImage}$ </td>
+   <td style="text-align:left;"> $nclust$ </td>
+   <td style="text-align:left;"> $k_{nn}$ </td>
+   <td style="text-align:left;"> $PC_{FAMD}$ </td>
+   <td style="text-align:left;"> $PC_{PLS}$ </td>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:right;"> $1$ </td>
+   <td style="text-align:right;"> $2$ </td>
+   <td style="text-align:right;"> $3$ </td>
+   <td style="text-align:right;"> $4$ </td>
+   <td style="text-align:right;"> $4$ </td>
+  </tr>
+</tbody>
+</table>
+
+Explained inertia: 0.72
+
+### Hierarchical clustering with connectivity constraints. 
+<img src="model2/clust_spatial_constraints_100px.png" height="55%" width="55%" align="center"/>
+
+### House-level risk index 
+<img src="model2/pls_index_allIndex.png" height="65%" width="65%" align="center"/>
+
+### House-level risk index (geographic distribution)
+<img src="model2/geo_index.png" height="55%" width="55%" align="center"/>
 
