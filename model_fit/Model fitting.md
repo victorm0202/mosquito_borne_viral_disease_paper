@@ -1,8 +1,6 @@
 # Model fitting
 Here, we will show different parameterizations of our model for a house-level risk index for dengue disease in an urban region of Tapachula, Chiapas, Mexico.
 
-- $PC_{DroneImage}$: The number of principal components (PCA) used to represent the *vegetation indices* (NDVI, GNDVI, NDVIre and CIgreen), and cartographic information (DSM and DTM)
-- 
 Main parameters are:
 <table>
  <thead>
