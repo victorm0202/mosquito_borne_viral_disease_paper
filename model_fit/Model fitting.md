@@ -13,7 +13,7 @@ Main parameters are:
 <tbody>
   <tr>
    <td style="text-align:left;"> $PC_{DroneImage}$ </td>
-   <td style="text-align:right;"> The number of principal components (PCA) used to represent the *vegetation indices* (NDVI, GNDVI, NDVIre and CIgreen), and cartographic information (DSM and DTM) </td>
+   <td style="text-align:right;"> The number of principal components (PCA) used to represent the vegetation indices (NDVI, GNDVI, NDVIre and CIgreen), and cartographic information (DSM and DTM) </td>
    <td style="text-align:right;"> $\lbrace 1,2 \rbrace$ </td>
   </tr>  
   <tr>
